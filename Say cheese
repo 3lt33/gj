@@ -1,0 +1,4 @@
+$pkg update
+$pkg upgrade
+$pkg install openssh
+$pkg install git
